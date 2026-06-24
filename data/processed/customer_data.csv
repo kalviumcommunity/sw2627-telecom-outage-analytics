@@ -1,0 +1,6 @@
+customer_id,name,age,email,phone,start_date,end_date
+101,John,25,john@gmail.com,9876543210,2024-01-01,2024-02-01
+102,Mary,-5,mary@gmail.com,9876543211,2024-01-05,2024-01-10
+103,Alex,150,alexgmail.com,12345,2024-03-10,2024-03-01
+,David,30,david@gmail.com,9876543212,2024-04-01,2024-05-01
+105,Sara,35,sara@gmail.com,9876543213,2024-06-01,2024-07-01

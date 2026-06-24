@@ -1,0 +1,5 @@
+region,outage_alerts,customer_complaints,usage_metric,impact_score
+North,5,20,1000,80.0
+South,3,10,800,44.0
+East,8,35,1500,136.0
+West,2,5,600,25.0
